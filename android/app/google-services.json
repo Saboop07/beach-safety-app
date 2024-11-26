@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927758757293",
+    "project_id": "project-55109",
+    "storage_bucket": "project-55109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927758757293:android:c36a0381e8ea5f81d90524",
+        "android_client_info": {
+          "package_name": "com.example.coasty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PrDPRcRLlPn-MOVmJDklK65CySYbkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
